@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "malovika",
+      "lastName": "sinha",
+      "phone": "1234567890",
+      "email": "abc@gmail.com",
+      "id": "a864"
+    },
+    {
+      "id": "ef37",
+      "firstName": "hijkkkkbfdsfd",
+      "lastName": "vfdjgdj",
+      "phone": "1234567892",
+      "email": "hfh@gmail.com"
+    },
+    {
+      "id": "2d6a",
+      "firstName": "kiki",
+      "lastName": "hihi",
+      "phone": "1235458566",
+      "email": "mako@gmail.com"
+    },
+    {
+      "id": "0aa3",
+      "firstName": "malo",
+      "lastName": "sinha",
+      "phone": "9564123412",
+      "email": "ac@mail.com"
+    }
+  ]
+}
