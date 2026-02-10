@@ -44,8 +44,6 @@ const UserForm=({onSubmit,initialData={}})=>{
   return Object.keys(newErrors).length === 0;
     }
 
-
-
     useEffect(()=>{
             const updatedData={};
             userForm.forEach((field)=>{

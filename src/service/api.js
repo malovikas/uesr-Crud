@@ -1,4 +1,4 @@
-const API_URL="http://localhost:5000/users"
+const API_URL="https://6989d8e6c04d974bc6a09d81.mockapi.io/getUsers"
 export const createUser=async(user)=>{
     const response=await fetch(API_URL,{
         method:"POST",
