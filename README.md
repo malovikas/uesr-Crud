@@ -4,7 +4,7 @@ This is a simple React CRUD (Create, Read, Update, Delete) application that allo
 The project is built as part of an assignment to demonstrate React fundamentals and CRUD functionality.
 
 GitHub Repository:  
-https://github.com/malovikas/user-Crud
+https://github.com/malovikas/uesr-Crud
 1) Setup Instructions
 Follow the steps below to run the project locally:
 
